@@ -4,6 +4,16 @@ body {
   font-family: sans-serif;
 }
 
+.navBar {
+  text-align: left;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+
+.wallet {
+  margin-top: 10px;
+}
+
 .app {
   display: grid;
   grid-template-columns: repeat(5, 1fr, 2fr, 2fr, 2fr, 1fr);
